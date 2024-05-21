@@ -1,6 +1,6 @@
 # BCH Encoder Units
 
-This repository contains implementations of two Bose-Chaudhuri-Hocquenghem (BCH) Encoder Units:
+This repository contains Coverage Driven Verification of two Bose-Chaudhuri-Hocquenghem (BCH) Encoder Units:
 
 1. **BCH (15,7,2) Encoder**
 2. **BCH (63, 51,2) Encoder**
